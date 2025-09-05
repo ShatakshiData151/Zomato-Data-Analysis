@@ -1,12 +1,11 @@
 # Zomato-Data-Analysis
 
 ## project Structure
-Zomato-Data-Analysis/
-│
+```Zomato-Data-Analysis/
 ├── zomato_analysis.ipynb      # Jupyter notebook with full analysis
 ├── zomato_data.csv            # Source data file
 └── README.md                  # Project overview
-
+```
 ##  Skills
 - **Excel**
 - **Python** (Pandas, NumPy, Matplotlib, Seaborn)
